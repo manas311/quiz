@@ -1,0 +1,41 @@
+.heading{
+  text-align: center;
+  padding-top: 80px;
+  width: 100%;
+  border-style: solid;
+  border-color: coral;
+}
+
+#wrapper {
+  margin-top: 50px;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  border-style: solid;
+  border-color: Green;
+}
+
+a{
+  display: block;
+}
+
+h1{
+  font-size: 3.5rem;
+}
+
+p{
+  font-size: 1.5rem;
+}
+
+.select{
+  margin: 20px 0;
+}
+
+ul{
+  list-style-type: none;
+}
+
+body{
+  background-color: #CEE5D0;
+}
